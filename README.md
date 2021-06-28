@@ -15,8 +15,8 @@ SVM itself is intended to be used for one vs the other data analysis, however I 
 ## PDF and more details
 If you are interested in more technical details, download and read the pdf for my unpublished paper detailing my work and findings, Detection_of_IoT_BotNet_Attacks_Data_Mining_Final.pdf.
 
-## Source
-Traffic data is sourced from:
+## Source for Traffic Data
+Source Informaion:
    - Creators: Yair Meidan, Michael Bohadana, Yael Mathov, Yisroel Mirsky, Dominik Breitenbacher, Asaf Shabtai and Yuval Elovici
    - Meidan, Bohadana, Mathov, Mirsky, Shabtai: Department of Software and Information Systems Engineering; Ben-Gurion University of the Negev; Beer-Sheva, 8410501; 
    
