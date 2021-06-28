@@ -13,7 +13,7 @@ The 6 csv files are different types of traffic as the names imply. benign_traffi
 SVM itself is intended to be used for one vs the other data analysis, however I set this up in a way that you can try to distinguish more than two types of traffic. I could only obtain an 83.6% correctness rate when attempting to distinguish each type of traffic separately. However, as stated earlier, this is generally not the correct usage of SVM and was only for learning purposes on my part. I wanted to see what else SVM could do.
 
 ## PDF and more details
-If you are interested in more technical details, download and read the pdf for my unpublished paper detailing my work and findings.
+If you are interested in more technical details, download and read the pdf for my unpublished paper detailing my work and findings, Detection_of_IoT_BotNet_Attacks_Data_Mining_Final.pdf.
 
 ## Source
 Traffic data is sourced from:
