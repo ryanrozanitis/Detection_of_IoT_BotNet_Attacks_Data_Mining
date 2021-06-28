@@ -14,15 +14,10 @@ If you are interested in more technical details, download and read the pdf for m
 
 
 Traffic data is sourced from:
-
-   -- Creators: Yair Meidan, Michael Bohadana, Yael Mathov, Yisroel Mirsky, Dominik Breitenbacher, Asaf Shabtai and Yuval Elovici
-   
-   -- Meidan, Bohadana, Mathov, Mirsky, Shabtai: Department of Software and Information Systems Engineering; Ben-Gurion University of the Negev; Beer-Sheva, 8410501; 
+   -Creators: Yair Meidan, Michael Bohadana, Yael Mathov, Yisroel Mirsky, Dominik Breitenbacher, Asaf Shabtai and Yuval Elovici
+   -Meidan, Bohadana, Mathov, Mirsky, Shabtai: Department of Software and Information Systems Engineering; Ben-Gurion University of the Negev; Beer-Sheva, 8410501; 
    
 Israel
-
-   -- Breitenbacher, Elovici: iTrust Centre of Cybersecurity at Singapore University of Technology and Design; 8 Somapah Rd, Singapore 487372
-   
-   -- Donor: Yair Meidan (yairme@bgu.ac.il)
-   
-   -- Date: March, 2018 (databases may change over time without name change!)
+   -Breitenbacher, Elovici: iTrust Centre of Cybersecurity at Singapore University of Technology and Design; 8 Somapah Rd, Singapore 487372
+   -Donor: Yair Meidan (yairme@bgu.ac.il)
+   -Date: March, 2018 (databases may change over time without name change!)
