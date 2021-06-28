@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Read in the benign traffic samples.
 with open(
-        'C:\\\benign_traffic.csv',
+        'C:\\benign_traffic.csv',
         'rt')as BenignTrafficCSV:
     # about 40000 samples, 10000 is 25% of the benign data
     BenignTrafficFrame = pandas.read_csv(BenignTrafficCSV, index_col=0, header=0)  # nrows=10000
