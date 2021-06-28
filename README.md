@@ -1,5 +1,5 @@
 # Detection_of_IoT_BotNet_Attacks_Data_Mining
-If you want to play around with this code, by all means go ahead. There is only the one python file, however you also need to download the 6 csv files that contain the Ennio doorbell traffic data. You need to download only the zips or 7z files, not both. You may also need to make sure that you have the correct packages for the data manipulation to work properly.
+If you want to play around with this code, by all means go ahead. As for the python code, you only need to download present.py, however you also need to download the 6 csv files that contain the Ennio doorbell traffic data. Choose either the zips or 7z files, not both. You may also need to make sure that you have the correct packages for the data manipulation to work properly. The other python files are the same file with more comments and other code I attempted to use to get a better result.
 
 This project was an attempt to learn more about SVM and Data Mining while I took a course of the same name at NJIT. I was quite successful in that I obtained a 99.5% correctness rate when attempting to distinguish bening and malign packets traveling through the Ennio Doorbell device using SVM.
 
